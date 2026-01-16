@@ -38,7 +38,7 @@ Predict marks for a custom study duration
 ▶️ Running the Project
 
 Clone the repository:
-git clone https://github.com/your-username/score-predictor.git
+git clone https://github.com/Ananya9999999/score-predictor.git
 
 Install dependencies:
 
