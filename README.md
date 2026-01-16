@@ -22,7 +22,9 @@ Scikit-learn
 The project uses a CSV file named Student_Marks.csv with the following columns:
 
 Column Name	Description
+
 time_study	Number of hours studied
+
 Marks	Marks obtained by the student
 
 ⚙️ How It Works
@@ -38,7 +40,7 @@ Predict marks for a custom study duration
 ▶️ Running the Project
 
 Clone the repository:
-git clone https://github.com/Ananya9999999/score-predictor.git
+git clone https://github.com/Ananya9999999/ACM.git
 
 Install dependencies:
 
